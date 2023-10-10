@@ -5,6 +5,6 @@
 data_mapper section must follow the same structure in mongo collection
 Example:  
 
-![In mongo](https://i.imgur.com/EELTFEd.png)
+![In mongo](https://i.imgur.com/KBxIGvT.png)
 
 ![In config file](https://i.imgur.com/QHDt1JZ.png)
