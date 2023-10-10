@@ -1,0 +1,3 @@
+relationalize
+psycopg2-binary
+pymongo
