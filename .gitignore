@@ -1,1 +1,6 @@
 # config.ini
+main-bak.py
+test.py
+temp/**
+json/**
+final/**
